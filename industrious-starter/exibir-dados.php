@@ -1,5 +1,5 @@
 <?php
 
-    <div class="sucesso">E-mail enviado com sucesso!</div>
+    echo "<p>Você escolheu receber nossas novidades</p>";
 
 ?>
