@@ -1,3 +1,3 @@
 <?php
-
-    echo "<script>alert('Formulário Foi enviado pelo método POST')</script>";
+    $nome=$_POST["email"];
+    echo "<script>alert('Formulário Foi enviado' .$nome.)</script>";
