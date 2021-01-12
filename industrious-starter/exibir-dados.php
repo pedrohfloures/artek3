@@ -1,5 +1,5 @@
 <?php
 
-    echo "<script type='javascript'>alert('Email enviado com Sucesso!');";
+    <div class="sucesso">E-mail enviado com sucesso!</div>
 
 ?>
