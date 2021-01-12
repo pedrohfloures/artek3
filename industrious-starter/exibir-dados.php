@@ -1,5 +1,5 @@
 <?php
 
-    echo "<p>Você escolheu receber nossas novidades</p>"; 
+    echo "<script type='javascript'>alert('Email enviado com Sucesso!');";
 
 ?>
