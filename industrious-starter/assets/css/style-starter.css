@@ -11982,7 +11982,7 @@ h2.title {
 
 .breadcrumb-bg-contact {
   background-size: cover;
-  background-image: linear-gradient(to right, rgba(25, 25, 25, 0.7), rgba(0, 0, 0, 0.7)), url(../images/blog1.jpg);
+  background-image: linear-gradient(to right, rgba(25, 25, 25, 0.7), rgba(0, 0, 0, 0.7)), url(../images/banner4.jpg);
   background-repeat: no-repeat, no-repeat, no-repeat;
   background-position: center;
   background-attachment: fixed; }
@@ -12344,22 +12344,22 @@ h2.title {
   background-position: bottom right, left, right; }
 
 .w3l-services-block-3 .service1:hover {
-  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url(../images/p1.jpg); }
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url(../images/service1.jpg); }
 
 .w3l-services-block-3 .service2:hover {
-  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url(../images/p2.jpg); }
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url(../images/service2.jpg); }
 
 .w3l-services-block-3 .service3:hover {
-  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url(../images/p3.jpg); }
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url(../images/service3.jpg); }
 
 .w3l-services-block-3 .service4:hover {
-  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url(../images/about1.jpg); }
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url(../images/service4.jpg); }
 
 .w3l-services-block-3 .service5:hover {
   background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url(../images/about2.jpg); }
 
 .w3l-services-block-3 :hover .service6:hover {
-  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url(../images/p4.jpg); }
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url(../images/service6.jpg); }
 
 .w3l-services-block-3 .feature-img span {
   font-size: 35px;

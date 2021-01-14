@@ -1,3 +1,4 @@
 <?php
-    $nome=$_POST["email"];
-    echo "<script>alert('Formulário Foi enviado')</script>";
+    header("https://api.whatsapp.com/send?phone=5531975577981");
+
+?>
